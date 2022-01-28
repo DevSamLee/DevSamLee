@@ -1,4 +1,4 @@
-## Hi I am Sam Lee 👋
+## Hi I am Sam Lee and I am a GitHub gardener!👋
 
 - 🌱 I’m currently learning BIT program at RRC. (Term 2)
 - 🔭 I’m currently working at Workplace Education Manitoba.
