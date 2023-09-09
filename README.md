@@ -1,8 +1,9 @@
 ## Hi I am Sam Lee!👋
 
-- 🌱 I’m currently learning BIT program at RRC.
-- :runner: I’m currently working at IT department of Manitoba Hydro as a summer student intern.
+- 🌱 I’m currently learning the BIT program at RRC.
 - :runner: I’m currently working at Workplace Education Manitoba as an instructor.
+- :runner: I worked at the IT department of Manitoba Hydro in 2022.
+- :runner: I worked as a full stack engineer at 22Ai in 2023.
 - 📫 How to reach me: LeeSam235711@gmail.com
 - ⚡ Goal for 2022: Create dots as much as possible!
 - ⚡ LinkedIn : https://www.linkedin.com/in/sam-lee-dev/
