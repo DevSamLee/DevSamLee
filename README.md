@@ -6,7 +6,7 @@
 - :runner: I worked as a full stack engineer at 22Ai in 2023.
 - 📫 How to reach me: LeeSam235711@gmail.com
 - ⚡ Goal for 2022: Create dots as much as possible!
-- ⚡ LinkedIn : https://www.linkedin.com/in/sam-lee-dev/
+- ⚡ LinkedIn : [https://www.linkedin.com/in/devsamlee/](https://www.linkedin.com/in/devsamlee/)
 
 ### :computer: What I've learned 
 
