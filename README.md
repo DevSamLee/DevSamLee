@@ -1,6 +1,7 @@
 ## Hi I am Sam Lee!👋
 
-- 🌱 I’m currently learning the BIT program at RRC.
+- 🌱 I’m currently learning cybersecurity and cloud computing.
+- :runner: I'm a new grad of Business Information Technology program at RRC.
 - :runner: I’m currently working at Workplace Education Manitoba as an instructor.
 - :runner: I worked at the IT department of Manitoba Hydro in 2022.
 - :runner: I worked as a full stack engineer at 22Ai in 2023.
